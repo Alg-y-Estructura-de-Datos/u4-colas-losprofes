@@ -1,7 +1,0 @@
-C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 03 Pilas/Soluciones/cmake-build-debug/CMakeFiles/U03-E01.dir
-C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 03 Pilas/Soluciones/cmake-build-debug/CMakeFiles/U03-E02.dir
-C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 03 Pilas/Soluciones/cmake-build-debug/CMakeFiles/U03-E03.dir
-C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 03 Pilas/Soluciones/cmake-build-debug/CMakeFiles/U03-E04.dir
-C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 03 Pilas/Soluciones/cmake-build-debug/CMakeFiles/U03-E05.dir
-C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 03 Pilas/Soluciones/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/salce/OneDrive/Documentos/Programación III/Unidad 03 Pilas/Soluciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
